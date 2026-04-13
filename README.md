@@ -82,7 +82,7 @@ Enjoy 15+ games across multiple categories:
 
 
 # Clone the repo
-git clone https://github.com/your-username/pixel-play.git
+git clone https://github.com/zeusudd/pixel-play.git
 
 # Navigate into the project
 cd pixel-play
